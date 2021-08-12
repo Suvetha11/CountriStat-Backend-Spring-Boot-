@@ -1,4 +1,4 @@
-# CountriStat-Backend(Spring Boot)
+# <p align="center">CountriStat-Backend(Spring Boot)</p>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -9,11 +9,11 @@
   </ol>
 </details>
 
-## About the project
+## <p align="center">About the project</p>
 
 This is an CRUD Angular application that consumes from the Spring Boot backend with H2 as the database. The application will display countries of the world, and the user can manipulate them via different operations (Create, Read, Update, Delete Country/Countries). This project contains only about building an API in Spring Boot. Please visit the following link to check how to setup a project with angular 9  and connect it with the spring boot : https://github.com/Suvetha11/CountriStat-FrontEnd-Angular-
 
-## Application Preview
+## <p align="center">Application Preview</p>
 
 ![App Screenshot](https://github.com/Suvetha11/CountriStat-Backend-Spring-Boot-/blob/main/Images/CountriStat_Preview_Screenshot.png)
 
